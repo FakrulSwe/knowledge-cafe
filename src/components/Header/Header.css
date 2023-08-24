@@ -1,0 +1,38 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(246, 246, 248);
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.header :hover{
+    color: yellow;
+}
+.header h3{
+    color: #111;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 160%;
+}
+.header img{
+    border-radius: 60px;
+    background: lightgray 50% / cover no-repeat;
+    width: 50px;
+    height: 50px;
+    flex-shrink: 0;
+    margin-left: 30px;
+
+}
+
+nav.header a{
+    text-decoration: none;
+    color: #111;
+    font-family: Exo 2;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 100%;
+    margin-left: 30px;
+}

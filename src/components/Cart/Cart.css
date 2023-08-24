@@ -1,0 +1,36 @@
+.cart{
+    position: sticky;
+    top: 0;
+}
+.spent-time{
+    border-radius: 8px;
+    border: 1px solid #6047EC;
+    background: rgba(96, 71, 236, 0.10);
+    color: #6047EC;
+    font-family: Exo 2;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 160%;
+    text-align: center;
+}
+
+.totalBlogs{
+    border-radius: 8px;
+    background: rgba(17, 17, 17, 0.05);
+    width: 411px;
+    height: 1352px;
+    flex-shrink: 0;
+    padding: 30px 30px 12px;
+    padding-top: 30px;
+    color: #111;
+    font-family: Exo 2;
+    margin-top: 25px;
+}
+
+.cartBlogs{
+    padding: 16px;
+    border-radius: 8px;
+    background: #FFF;
+    flex-shrink: 0;
+}

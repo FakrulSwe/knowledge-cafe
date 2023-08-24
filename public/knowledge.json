@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "content": "How to get your first job as a self-taught programmer",
+        "name": "Mr. Raju",
+        "upload": "Mar 14 (4 Days ago)",
+        "time": 5,
+        "profile": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dXNlciUyMHByb2ZpbGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "ratingsCount": 3725,
+        "img": "https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?size=626&ext=jpg&ga=GA1.1.153842617.1691440710&semt=sph",
+        "quantity": 0,
+        "skill1": "#beginners",
+        "skill2": "#programming"
+    },
+    {
+        "id": "2",
+        "content": "How to get your first meet your colleague as a self-taught programmer",
+        "name": "Mrs. Setara",
+        "upload": "Mar 7 (14 Days ago)",
+        "time": 10,
+        "profile": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8dXNlciUyMHByb2ZpbGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "ratingsCount": 3725,
+        "img": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=869&q=80",
+        "quantity": 0,
+        "skill1": "#intermediate",
+        "skill2": "#programming"
+    },
+    {
+        "id": "3",
+        "content": "How to get your first job as a self-taught programmer",
+        "name": "Mina Mostofa",
+        "upload": "Mar 20 (1 Days ago)",
+        "time": 5,
+        "profile": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+        "ratingsCount": 3725,
+        "img": "https://images.unsplash.com/photo-1546900703-cf06143d1239?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1150&q=80",
+        "quantity": 0,
+        "skill1": "#advance",
+        "skill2": "#programming"
+    },
+    {
+        "id": "4",
+        "content": "How to get your first meet your boss as a self-taught programmer",
+        "name": "Mr. Fakrul",
+        "upload": "Mar 10 (10 Days ago)",
+        "time": 12,
+        "profile": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dXNlciUyMHByb2ZpbGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "ratingsCount": 3725,
+        "img": "https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+        "quantity": 0,
+        "skill1": "#intermediate",
+        "skill2": "#programming"
+    }
+   
+    
+]
